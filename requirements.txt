@@ -34,8 +34,6 @@ pytz
 qbittorrent-api
 requests
 speedtest-cli
-sabnzbd-api
-sabnzbdapi
 telegraph
 tenacity
 tgcrypto
